@@ -10,10 +10,10 @@ A 19 year old student pursuing Bachelor's Degree in Electronics and Communicatio
 <img width="35%" align="right" alt="Github Image" src="https://bestanimations.com/media/military/2036384671soldier-army-military-animated-gif-21.gif" />
 
 <h3 align="left">Some facts about me:</h3><p align="left">
-- I’m currently learning Data Structure and Algorithms using different programming languages 
-- I really enjoy playing First Person Shooter... If I don't win, I call in the airstrike
-- I'm looking for learning opportunities through collaborating with other devs on GitHub
-- I might me a noob, but I never stop learning ;)
+- 📚 I’m currently learning Data Structure and Algorithms using different programming languages 
+- ⚡️ I really enjoy playing First Person Shooter... If I don't win, I call in the airstrike
+- 🎯 I'm looking for learning opportunities through collaborating with other devs on GitHub
+- 👯 I might me a noob, but I never stop learning ;)
 
 <h3 align="left">Connect with me:</h3><p align="left">
 Email ID: rajarshiroyrmr@gmail.com
