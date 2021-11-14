@@ -1,4 +1,4 @@
-<h1 align="center"> Hi everybody! ..... I'm Rajarshi Roy <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<h1 align="center"> Hi everybody! I'm Rajarshi Roy <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 <h3 align="center"> A programmer and gaming enthusiast </h3>
 
 A 19 year old student pursuing Bachelor's Degree in Electronics and Communication Engineering at <a href="https://uem.edu.in/uem-kolkata/">University of Engineering and Management (UEM), Kolkata</a> 🎓. Determined to upgrade lifestyles using all my power and knowledge 🚀.
@@ -20,8 +20,8 @@ Email ID: rajarshiroyrmr@gmail.com
 
 ## 🏆 Github Status:
 <div align="center">
-<img width="25.2%" src="https://c.tenor.com/esCBwJ7Tq4UAAAAC/pc-hack.gif" alt="MrDoom02" />
-![Rajarshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrDoom02&show_icons=true&theme=dark)
+<img width="35%" align="right" alt="Github Image" src="https://c.tenor.com/esCBwJ7Tq4UAAAAC/pc-hack.gif" />
+<img  src="https://github-readme-stats.vercel.app/api?username=MrDoom02&show_icons=true&theme=react&count_private=true" alt="Rajarshi" />     
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MrDoom02&theme=dark&" alt="Rajarshi Roy" /></p>
 
 ---
