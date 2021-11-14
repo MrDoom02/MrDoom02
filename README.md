@@ -22,10 +22,10 @@ A 19 year old student pursuing Bachelor's Degree in Electronics and Communicatio
 Email ID: rajarshiroyrmr@gmail.com
 
 ## 🏆 Github Status:
-<div align="left">
-<img width="35%" align="left" alt="Github Image" src="https://c.tenor.com/esCBwJ7Tq4UAAAAC/pc-hack.gif" />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=MrDoom02&show_icons=true&theme=react&count_private=true" alt="Rajarshi" /></p>   
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MrDoom02&theme=react&count_private=true" alt="Rajarshi Roy" /></p>
+<div align="center">
+<img width="35%" align="center" alt="Github Image" src="https://c.tenor.com/esCBwJ7Tq4UAAAAC/pc-hack.gif" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=MrDoom02&show_icons=true&theme=react&count_private=true" alt="Rajarshi" /></p>   
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MrDoom02&theme=react&count_private=true" alt="Rajarshi Roy" /></p>
 [![Rajarshi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MrDoom02&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   
 ---
