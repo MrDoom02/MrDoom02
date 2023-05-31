@@ -1,7 +1,7 @@
 <h1 align="center"> Hi everybody! I'm Rajarshi Roy <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 <h3 align="center"> A programmer and gaming enthusiast </h3>
 
-A 19 year old student pursuing Bachelor's Degree in Electronics and Communication Engineering at <a href="https://uem.edu.in/uem-kolkata/">University of Engineering and Management (UEM), Kolkata</a> 🎓. Determined to upgrade lifestyles using all my power and knowledge 🚀.
+A 20 year old student pursuing Bachelor's Degree in Electronics and Communication Engineering at <a href="https://uem.edu.in/uem-kolkata/">University of Engineering and Management (UEM), Kolkata</a> 🎓. Determined to upgrade lifestyles using all my power and knowledge 🚀.
 
 ![Age](https://img.shields.io/badge/AGE-19-blue)
 ![FOCUS](https://img.shields.io/badge/FOCUS-BackEnd-brightgreen)
